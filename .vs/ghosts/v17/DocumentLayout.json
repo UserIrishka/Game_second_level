@@ -1,0 +1,205 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity\\Projects\\ghosts\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7781FED1-C6FA-0032-91FB-313DFBDFE863}|Assembly-CSharp.csproj|D:\\Unity\\Projects\\ghosts\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7781FED1-C6FA-0032-91FB-313DFBDFE863}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7781FED1-C6FA-0032-91FB-313DFBDFE863}|Assembly-CSharp.csproj|d:\\unity\\projects\\ghosts\\assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7781FED1-C6FA-0032-91FB-313DFBDFE863}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7781FED1-C6FA-0032-91FB-313DFBDFE863}|Assembly-CSharp.csproj|D:\\Unity\\Projects\\ghosts\\assets\\scripts\\keycounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7781FED1-C6FA-0032-91FB-313DFBDFE863}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\keycounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7781FED1-C6FA-0032-91FB-313DFBDFE863}|Assembly-CSharp.csproj|D:\\Unity\\Projects\\ghosts\\assets\\scripts\\keycollectible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7781FED1-C6FA-0032-91FB-313DFBDFE863}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\keycollectible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7781FED1-C6FA-0032-91FB-313DFBDFE863}|Assembly-CSharp.csproj|D:\\Unity\\Projects\\ghosts\\assets\\scripts\\hearthealthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7781FED1-C6FA-0032-91FB-313DFBDFE863}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\hearthealthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7781FED1-C6FA-0032-91FB-313DFBDFE863}|Assembly-CSharp.csproj|D:\\Unity\\Projects\\ghosts\\assets\\scripts\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7781FED1-C6FA-0032-91FB-313DFBDFE863}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7781FED1-C6FA-0032-91FB-313DFBDFE863}|Assembly-CSharp.csproj|D:\\Unity\\Projects\\ghosts\\assets\\scripts\\testfall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7781FED1-C6FA-0032-91FB-313DFBDFE863}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\testfall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7781FED1-C6FA-0032-91FB-313DFBDFE863}|Assembly-CSharp.csproj|D:\\Unity\\Projects\\ghosts\\assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7781FED1-C6FA-0032-91FB-313DFBDFE863}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7781FED1-C6FA-0032-91FB-313DFBDFE863}|Assembly-CSharp.csproj|D:\\Unity\\Projects\\ghosts\\assets\\scripts\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7781FED1-C6FA-0032-91FB-313DFBDFE863}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity\\Projects\\ghosts\\Assets\\SupanthaPaul\\2D Platformer Controller\\Scripts\\Player\\PlayerMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\SupanthaPaul\\2D Platformer Controller\\Scripts\\Player\\PlayerMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity\\Projects\\ghosts\\Assets\\SupanthaPaul\\2D Platformer Controller\\Scripts\\Player\\PlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\SupanthaPaul\\2D Platformer Controller\\Scripts\\Player\\PlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlayerHealth.cs",
+              "DocumentMoniker": "D:\\Unity\\Projects\\ghosts\\Assets\\Scripts\\PlayerHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerHealth.cs",
+              "ToolTip": "D:\\Unity\\Projects\\ghosts\\Assets\\Scripts\\PlayerHealth.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerHealth.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAmwGsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T06:53:45.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TestFall.cs",
+              "DocumentMoniker": "D:\\Unity\\Projects\\ghosts\\Assets\\Scripts\\TestFall.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TestFall.cs",
+              "ToolTip": "D:\\Unity\\Projects\\ghosts\\Assets\\Scripts\\TestFall.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TestFall.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAmwCkAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T08:28:16.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "D:\\Unity\\Projects\\ghosts\\Assets\\Scripts\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Bullet.cs",
+              "ToolTip": "D:\\Unity\\Projects\\ghosts\\Assets\\Scripts\\Bullet.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Bullet.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAkwBsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T19:19:29.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "D:\\Unity\\Projects\\ghosts\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "D:\\Unity\\Projects\\ghosts\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAYwEwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T18:56:57.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EnemyAI.cs",
+              "DocumentMoniker": "D:\\Unity\\Projects\\ghosts\\Assets\\Scripts\\EnemyAI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyAI.cs",
+              "ToolTip": "D:\\Unity\\Projects\\ghosts\\Assets\\Scripts\\EnemyAI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyAI.cs",
+              "ViewState": "AQIAAMsAAAAAAAAAAAAmwNYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T22:38:52.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KeyCollectible.cs",
+              "DocumentMoniker": "D:\\Unity\\Projects\\ghosts\\Assets\\Scripts\\KeyCollectible.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\KeyCollectible.cs",
+              "ToolTip": "D:\\Unity\\Projects\\ghosts\\Assets\\Scripts\\KeyCollectible.cs",
+              "RelativeToolTip": "Assets\\Scripts\\KeyCollectible.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T16:26:19.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KeyCounter.cs",
+              "DocumentMoniker": "D:\\Unity\\Projects\\ghosts\\Assets\\Scripts\\KeyCounter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\KeyCounter.cs",
+              "ToolTip": "D:\\Unity\\Projects\\ghosts\\Assets\\Scripts\\KeyCounter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\KeyCounter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T16:26:35.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HeartHealthBar.cs",
+              "DocumentMoniker": "D:\\Unity\\Projects\\ghosts\\Assets\\Scripts\\HeartHealthBar.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HeartHealthBar.cs",
+              "ToolTip": "D:\\Unity\\Projects\\ghosts\\Assets\\Scripts\\HeartHealthBar.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HeartHealthBar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAiwBYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T16:46:32.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "D:\\Unity\\Projects\\ghosts\\Assets\\Scripts\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy.cs",
+              "ToolTip": "D:\\Unity\\Projects\\ghosts\\Assets\\Scripts\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAmwDQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T09:11:28.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "D:\\Unity\\Projects\\ghosts\\Assets\\SupanthaPaul\\2D Platformer Controller\\Scripts\\Player\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\SupanthaPaul\\2D Platformer Controller\\Scripts\\Player\\PlayerMovement.cs",
+              "ToolTip": "D:\\Unity\\Projects\\ghosts\\Assets\\SupanthaPaul\\2D Platformer Controller\\Scripts\\Player\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\SupanthaPaul\\2D Platformer Controller\\Scripts\\Player\\PlayerMovement.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T18:36:59.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "D:\\Unity\\Projects\\ghosts\\Assets\\SupanthaPaul\\2D Platformer Controller\\Scripts\\Player\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\SupanthaPaul\\2D Platformer Controller\\Scripts\\Player\\PlayerController.cs",
+              "ToolTip": "D:\\Unity\\Projects\\ghosts\\Assets\\SupanthaPaul\\2D Platformer Controller\\Scripts\\Player\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\SupanthaPaul\\2D Platformer Controller\\Scripts\\Player\\PlayerController.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAqwGQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T18:23:38.58Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,780 @@
+fileFormatVersion: 2
+guid: 636975d4f11be3f4c8e63aee2cd6277b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7960668323706889185
+    second: slowing_0
+  - first:
+      213: -5398476986973657886
+    second: slowing_1
+  - first:
+      213: -7695337182210559559
+    second: slowing_2
+  - first:
+      213: 2652694343722078353
+    second: slowing_3
+  - first:
+      213: -8540209945050839591
+    second: slowing_4
+  - first:
+      213: -2343082966067855597
+    second: slowing_5
+  - first:
+      213: -4955413254757155999
+    second: slowing_6
+  - first:
+      213: -434070274237611310
+    second: slowing_7
+  - first:
+      213: -5841622619519853545
+    second: slowing_8
+  - first:
+      213: 6753596720813018970
+    second: slowing_9
+  - first:
+      213: -4109922917088583462
+    second: slowing_10
+  - first:
+      213: 1902345241614033150
+    second: slowing_11
+  - first:
+      213: 3784266340237497199
+    second: slowing_12
+  - first:
+      213: -5475748444687576893
+    second: slowing_13
+  - first:
+      213: -5313484423091739272
+    second: slowing_14
+  - first:
+      213: -739535992304572609
+    second: slowing_15
+  - first:
+      213: -645576332611138136
+    second: slowing_16
+  - first:
+      213: 1868629602780428830
+    second: slowing_17
+  - first:
+      213: 6017372194539158597
+    second: slowing_18
+  - first:
+      213: 8621331489818706081
+    second: slowing_19
+  - first:
+      213: 124287005669078571
+    second: slowing_20
+  - first:
+      213: 4010314089330699191
+    second: slowing_21
+  - first:
+      213: -7154846475727934176
+    second: slowing_22
+  - first:
+      213: -2388975317212887710
+    second: slowing_23
+  - first:
+      213: -4270362550974014644
+    second: slowing_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: slowing_0
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 377
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3e049b9a9f97e60800000000000000
+      internalID: 7960668323706889185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slowing_1
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 376
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e4605f58c1c415b0800000000000000
+      internalID: -5398476986973657886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slowing_2
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 379
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b1fb7bba9ba43590800000000000000
+      internalID: -7695337182210559559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slowing_3
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 382
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1901e37737340d420800000000000000
+      internalID: 2652694343722078353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slowing_4
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 379
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d58cfd8d441b7980800000000000000
+      internalID: -8540209945050839591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slowing_5
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 372
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31fb140e472bb7fd0800000000000000
+      internalID: -2343082966067855597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slowing_6
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 366
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16bffe256e5da3bb0800000000000000
+      internalID: -4955413254757155999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slowing_7
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 370
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d2c288a26fd9f9f0800000000000000
+      internalID: -434070274237611310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slowing_8
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 368
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71cd1a38d236eeea0800000000000000
+      internalID: -5841622619519853545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slowing_9
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 364
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f8d4c7f6899bd50800000000000000
+      internalID: 6753596720813018970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slowing_10
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 269
+        width: 441
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad0a2b8d1ee96f6c0800000000000000
+      internalID: -4109922917088583462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slowing_11
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 362
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef02f8e0bec766a10800000000000000
+      internalID: 1902345241614033150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slowing_12
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 362
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f63d251cf2a648430800000000000000
+      internalID: 3784266340237497199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slowing_13
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 363
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c0dff22dcb3204b0800000000000000
+      internalID: -5475748444687576893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slowing_14
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 329
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 875ab0ab116b246b0800000000000000
+      internalID: -5313484423091739272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slowing_15
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 310
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f37e118eee3acb5f0800000000000000
+      internalID: -739535992304572609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slowing_16
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 300
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad4053feb37a07f0800000000000000
+      internalID: -645576332611138136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slowing_17
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 300
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ab18a29b4bee910800000000000000
+      internalID: 1868629602780428830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slowing_18
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 267
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54cb1d82120028350800000000000000
+      internalID: 6017372194539158597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slowing_19
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 264
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a0888def4f15a770800000000000000
+      internalID: 8621331489818706081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slowing_20
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 255
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b263a178f5e89b100800000000000000
+      internalID: 124287005669078571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slowing_21
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 255
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bbec4caa6f77a730800000000000000
+      internalID: 4010314089330699191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slowing_22
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 245
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02de7cfc901e4bc90800000000000000
+      internalID: -7154846475727934176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slowing_23
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 239
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26589583b97a8ded0800000000000000
+      internalID: -2388975317212887710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slowing_24
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 229
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b101f92ef9cb4c0800000000000000
+      internalID: -4270362550974014644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      slowing_0: 7960668323706889185
+      slowing_1: -5398476986973657886
+      slowing_10: -4109922917088583462
+      slowing_11: 1902345241614033150
+      slowing_12: 3784266340237497199
+      slowing_13: -5475748444687576893
+      slowing_14: -5313484423091739272
+      slowing_15: -739535992304572609
+      slowing_16: -645576332611138136
+      slowing_17: 1868629602780428830
+      slowing_18: 6017372194539158597
+      slowing_19: 8621331489818706081
+      slowing_2: -7695337182210559559
+      slowing_20: 124287005669078571
+      slowing_21: 4010314089330699191
+      slowing_22: -7154846475727934176
+      slowing_23: -2388975317212887710
+      slowing_24: -4270362550974014644
+      slowing_3: 2652694343722078353
+      slowing_4: -8540209945050839591
+      slowing_5: -2343082966067855597
+      slowing_6: -4955413254757155999
+      slowing_7: -434070274237611310
+      slowing_8: -5841622619519853545
+      slowing_9: 6753596720813018970
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

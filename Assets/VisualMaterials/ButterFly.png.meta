@@ -1,0 +1,2314 @@
+fileFormatVersion: 2
+guid: 69366efa285ea4e4eb20698bee2ef540
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4094524082553314110
+    second: ButterFly_0
+  - first:
+      213: -8530495992610760728
+    second: ButterFly_1
+  - first:
+      213: -7304293030109811094
+    second: ButterFly_2
+  - first:
+      213: 361311500375878089
+    second: ButterFly_3
+  - first:
+      213: -2531341820465438393
+    second: ButterFly_4
+  - first:
+      213: 3946433756869056253
+    second: ButterFly_5
+  - first:
+      213: 3093797557379251916
+    second: ButterFly_6
+  - first:
+      213: 5781433108662394080
+    second: ButterFly_7
+  - first:
+      213: 2606061033550834511
+    second: ButterFly_8
+  - first:
+      213: 4663815594928572566
+    second: ButterFly_9
+  - first:
+      213: -7028983942734166665
+    second: ButterFly_10
+  - first:
+      213: -5735275930335486717
+    second: ButterFly_11
+  - first:
+      213: -2875307325249039920
+    second: ButterFly_12
+  - first:
+      213: -8092665220129684188
+    second: ButterFly_13
+  - first:
+      213: 2597671669506875737
+    second: ButterFly_14
+  - first:
+      213: -2651495574386026127
+    second: ButterFly_15
+  - first:
+      213: -554878706887748959
+    second: ButterFly_16
+  - first:
+      213: -9185898127551107402
+    second: ButterFly_17
+  - first:
+      213: 2460992424123706333
+    second: ButterFly_18
+  - first:
+      213: -4301997875793343840
+    second: ButterFly_19
+  - first:
+      213: -8190760747340461486
+    second: ButterFly_20
+  - first:
+      213: 5108747301864250587
+    second: ButterFly_21
+  - first:
+      213: -7257596089765742901
+    second: ButterFly_22
+  - first:
+      213: 7958262509564410674
+    second: ButterFly_23
+  - first:
+      213: 2352694512132811001
+    second: ButterFly_24
+  - first:
+      213: 3367250643505490533
+    second: ButterFly_25
+  - first:
+      213: -4681331211425623470
+    second: ButterFly_26
+  - first:
+      213: -5477035974036391225
+    second: ButterFly_27
+  - first:
+      213: -4510786383650288399
+    second: ButterFly_28
+  - first:
+      213: -2329370408033825796
+    second: ButterFly_29
+  - first:
+      213: -1796161434514410498
+    second: ButterFly_30
+  - first:
+      213: -1019949333862943438
+    second: ButterFly_31
+  - first:
+      213: -1951083403969273553
+    second: ButterFly_32
+  - first:
+      213: 6211253449977828036
+    second: ButterFly_33
+  - first:
+      213: 6963780034993950509
+    second: ButterFly_34
+  - first:
+      213: -611481633573690053
+    second: ButterFly_35
+  - first:
+      213: -278663793101512442
+    second: ButterFly_36
+  - first:
+      213: 4549498831706009836
+    second: ButterFly_37
+  - first:
+      213: -7227055945120102328
+    second: ButterFly_38
+  - first:
+      213: -7847662966417448558
+    second: ButterFly_39
+  - first:
+      213: 1576027869600932954
+    second: ButterFly_40
+  - first:
+      213: -3020488186116330569
+    second: ButterFly_41
+  - first:
+      213: -816175388774779528
+    second: ButterFly_42
+  - first:
+      213: 5935923512113778393
+    second: ButterFly_43
+  - first:
+      213: -2257467967897117299
+    second: ButterFly_44
+  - first:
+      213: -1571178827185442555
+    second: ButterFly_45
+  - first:
+      213: -6839469413504209013
+    second: ButterFly_46
+  - first:
+      213: 7998116017910880300
+    second: ButterFly_47
+  - first:
+      213: -3357686266179458222
+    second: ButterFly_48
+  - first:
+      213: 4361652263871784146
+    second: ButterFly_49
+  - first:
+      213: -5116179236962228983
+    second: ButterFly_50
+  - first:
+      213: -844599033043305559
+    second: ButterFly_51
+  - first:
+      213: 1171250946127356635
+    second: ButterFly_52
+  - first:
+      213: 202561161282526640
+    second: ButterFly_53
+  - first:
+      213: 3645106762931181425
+    second: ButterFly_54
+  - first:
+      213: 7521233376296088491
+    second: ButterFly_55
+  - first:
+      213: -3800992572915050846
+    second: ButterFly_56
+  - first:
+      213: -8548951171627772719
+    second: ButterFly_57
+  - first:
+      213: -1234240791955580294
+    second: ButterFly_58
+  - first:
+      213: -7162163165039953845
+    second: ButterFly_59
+  - first:
+      213: 2461086570060633708
+    second: ButterFly_60
+  - first:
+      213: -6637387621583391885
+    second: ButterFly_61
+  - first:
+      213: -4131471835018619980
+    second: ButterFly_62
+  - first:
+      213: -4720889401253413309
+    second: ButterFly_63
+  - first:
+      213: -6015525975602507656
+    second: ButterFly_64
+  - first:
+      213: 3933387158610199568
+    second: ButterFly_65
+  - first:
+      213: 6401712578791482793
+    second: ButterFly_66
+  - first:
+      213: 6791171890845904251
+    second: ButterFly_67
+  - first:
+      213: -6030516618865613650
+    second: ButterFly_68
+  - first:
+      213: 3725435521706771155
+    second: ButterFly_69
+  - first:
+      213: 2618900659555537268
+    second: ButterFly_70
+  - first:
+      213: 8252723889234524767
+    second: ButterFly_71
+  - first:
+      213: -4553963362447926857
+    second: ButterFly_72
+  - first:
+      213: -6334110505936192083
+    second: ButterFly_73
+  - first:
+      213: 9059864076530285019
+    second: ButterFly_74
+  - first:
+      213: 5989250987306292561
+    second: ButterFly_75
+  - first:
+      213: 2810668651152506566
+    second: ButterFly_76
+  - first:
+      213: -7583405163486415996
+    second: ButterFly_77
+  - first:
+      213: -5959243182982952186
+    second: ButterFly_78
+  - first:
+      213: 2108909383312366083
+    second: ButterFly_79
+  - first:
+      213: -6014599125813230514
+    second: ButterFly_80
+  - first:
+      213: 7523985968683322108
+    second: ButterFly_81
+  - first:
+      213: -3489676470468700350
+    second: ButterFly_82
+  - first:
+      213: 3556339954091125343
+    second: ButterFly_83
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ButterFly_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 342
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b5fd895fba2d830800000000000000
+      internalID: 4094524082553314110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButterFly_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 343
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e7da8a57179d9980800000000000000
+      internalID: -8530495992610760728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButterFly_2
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 343
+        width: 46
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e61fc5030f1aa90800000000000000
+      internalID: -7304293030109811094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButterFly_3
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 341
+        width: 47
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c9ea2135e2a30500800000000000000
+      internalID: 361311500375878089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButterFly_4
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 332
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7412112a60ededcd0800000000000000
+      internalID: -2531341820465438393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButterFly_5
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 325
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df65acfb79c84c630800000000000000
+      internalID: 3946433756869056253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButterFly_6
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 324
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccebf8e9c706fea20800000000000000
+      internalID: 3093797557379251916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButterFly_7
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 325
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec118ee7c6cb3050800000000000000
+      internalID: 5781433108662394080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButterFly_8
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 333
+        width: 39
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4be8c7d3b69a2420800000000000000
+      internalID: 2606061033550834511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButterFly_9
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 338
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69805a9d29339b040800000000000000
+      internalID: 4663815594928572566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButterFly_10
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 341
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 775c7616858047e90800000000000000
+      internalID: -7028983942734166665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButterFly_11
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 343
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d518b9de43860b0800000000000000
+      internalID: -5735275930335486717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButterFly_12
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 342
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d1d372c83bd818d0800000000000000
+      internalID: -2875307325249039920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButterFly_13
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 343
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 425030cebd311bf80800000000000000
+      internalID: -8092665220129684188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButterFly_14
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 278
+        width: 46
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 951ad00de98cc0420800000000000000
+      internalID: 2597671669506875737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButterFly_15
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 276
+        width: 47
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1795335c2def33bd0800000000000000
+      internalID: -2651495574386026127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButterFly_16
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 267
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a2178681ccac48f0800000000000000
+      internalID: -554878706887748959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButterFly_17
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 260
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bee36c6252258080800000000000000
+      internalID: -9185898127551107402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButterFly_18
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 259
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddb22d22293372220800000000000000
+      internalID: 2460992424123706333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButterFly_19
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 260
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa4ad499bb3c44c0800000000000000
+      internalID: -4301997875793343840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButterFly_20
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 268
+        width: 39
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a0f8e2f72945e80800000000000000
+      internalID: -8190760747340461486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButterFly_21
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 273
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc9ade8a9ae5e640800000000000000
+      internalID: 5108747301864250587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButterFly_22
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 276
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc6bf3a0fc6d74b90800000000000000
+      internalID: -7257596089765742901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButterFly_23
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 278
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b35e7769d617e60800000000000000
+      internalID: 7958262509564410674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButterFly_24
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 277
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f8efa4913376a020800000000000000
+      internalID: 2352694512132811001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButterFly_25
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 278
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56aa9dbae90eabe20800000000000000
+      internalID: 3367250643505490533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButterFly_26
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 278
+        width: 46
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 252d603e012980fb0800000000000000
+      internalID: -4681331211425623470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButterFly_27
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 276
+        width: 47
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca7689dcc8adf3b0800000000000000
+      internalID: -5477035974036391225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButterFly_28
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 202
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc0bd8eea77661c0800000000000000
+      internalID: -4510786383650288399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButterFly_29
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 195
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb46d694f96cafd0800000000000000
+      internalID: -2329370408033825796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButterFly_30
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 194
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef3338811b0c217e0800000000000000
+      internalID: -1796161434514410498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButterFly_31
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 195
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 235f33a1c7968d1f0800000000000000
+      internalID: -1019949333862943438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButterFly_32
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 203
+        width: 39
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f21604b3bfb5ce4e0800000000000000
+      internalID: -1951083403969273553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButterFly_33
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 208
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c219d7aa1ec23650800000000000000
+      internalID: 6211253449977828036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButterFly_34
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 211
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f85cfcb0154a060800000000000000
+      internalID: 6963780034993950509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButterFly_35
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 213
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b352a2ca1b49387f0800000000000000
+      internalID: -611481633573690053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButterFly_36
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 212
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 601eb60b1ccf12cf0800000000000000
+      internalID: -278663793101512442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButterFly_37
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 213
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce034e94511132f30800000000000000
+      internalID: 4549498831706009836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButterFly_38
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 213
+        width: 46
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 848cd3398e654bb90800000000000000
+      internalID: -7227055945120102328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButterFly_39
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 211
+        width: 47
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29123b95c10871390800000000000000
+      internalID: -7847662966417448558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButterFly_40
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 202
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a54edab4ffc2fd510800000000000000
+      internalID: 1576027869600932954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButterFly_41
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 195
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bba54a7ff11516d0800000000000000
+      internalID: -3020488186116330569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButterFly_42
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 129
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 875b9a5eecc5ca4f0800000000000000
+      internalID: -816175388774779528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButterFly_43
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 130
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de4e610cf2a06250800000000000000
+      internalID: 5935923512113778393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButterFly_44
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 138
+        width: 39
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d5ba108dcdba0e0800000000000000
+      internalID: -2257467967897117299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButterFly_45
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 143
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5013ffe5e2d023ae0800000000000000
+      internalID: -1571178827185442555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButterFly_46
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 146
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8faee33ec25511a0800000000000000
+      internalID: -6839469413504209013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButterFly_47
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 148
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2890f774240ffe60800000000000000
+      internalID: 7998116017910880300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButterFly_48
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 147
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25b6a25712a1761d0800000000000000
+      internalID: -3357686266179458222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButterFly_49
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 148
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d42bddff93b78c30800000000000000
+      internalID: 4361652263871784146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButterFly_50
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 148
+        width: 46
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90523a5371eaff8b0800000000000000
+      internalID: -5116179236962228983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButterFly_51
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 146
+        width: 47
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9abb0d187a16744f0800000000000000
+      internalID: -844599033043305559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButterFly_52
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 137
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd2e2caa78e114010800000000000000
+      internalID: 1171250946127356635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButterFly_53
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 130
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd198f8d44afc200800000000000000
+      internalID: 202561161282526640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButterFly_54
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 129
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17713ecc945069230800000000000000
+      internalID: 3645106762931181425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButterFly_55
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 130
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba3b0f218e9c06860800000000000000
+      internalID: 7521233376296088491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButterFly_56
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 73
+        width: 39
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a61089b469204bc0800000000000000
+      internalID: -3800992572915050846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButterFly_57
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 78
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d497f424360c5980800000000000000
+      internalID: -8548951171627772719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButterFly_58
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 81
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ad03cf9881fdee0800000000000000
+      internalID: -1234240791955580294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButterFly_59
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 83
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48f7645c82ea9c90800000000000000
+      internalID: -7162163165039953845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButterFly_60
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 82
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c66d2f13239872220800000000000000
+      internalID: 2461086570060633708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButterFly_61
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 83
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37372f2ef1343e3a0800000000000000
+      internalID: -6637387621583391885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButterFly_62
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 83
+        width: 46
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b31f2a61401aa6c0800000000000000
+      internalID: -4131471835018619980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButterFly_63
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 81
+        width: 47
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e32661a180c7eb0800000000000000
+      internalID: -4720889401253413309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButterFly_64
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 72
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 870d31f2ffe848ca0800000000000000
+      internalID: -6015525975602507656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButterFly_65
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 65
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0144b01e7c2369630800000000000000
+      internalID: 3933387158610199568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButterFly_66
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 64
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a524053ca377d850800000000000000
+      internalID: 6401712578791482793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButterFly_67
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 65
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7dec728ad61f3e50800000000000000
+      internalID: 6791171890845904251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButterFly_68
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 73
+        width: 39
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea4ec60161d4f4ca0800000000000000
+      internalID: -6030516618865613650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButterFly_69
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 78
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d244f86ed763b330800000000000000
+      internalID: 3725435521706771155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButterFly_70
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 16
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47118da3644385420800000000000000
+      internalID: 2618900659555537268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButterFly_71
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 18
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5a343707a0978270800000000000000
+      internalID: 8252723889234524767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButterFly_72
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 17
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b9d52523721dc0c0800000000000000
+      internalID: -4553963362447926857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButterFly_73
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 18
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad7a9ded08b818a0800000000000000
+      internalID: -6334110505936192083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButterFly_74
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 18
+        width: 46
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd9f8ea506a1bbd70800000000000000
+      internalID: 9059864076530285019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButterFly_75
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 16
+        width: 47
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1559c016a081e1350800000000000000
+      internalID: 5989250987306292561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButterFly_76
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 7
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce75452f30810720800000000000000
+      internalID: 2810668651152506566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButterFly_77
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 0
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4837782be2552c690800000000000000
+      internalID: -7583405163486415996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButterFly_78
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 0
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60b022406e38c4da0800000000000000
+      internalID: -5959243182982952186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButterFly_79
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 0
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a52df19e9544d10800000000000000
+      internalID: 2108909383312366083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButterFly_80
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 8
+        width: 39
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e44078736f9d78ca0800000000000000
+      internalID: -6014599125813230514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButterFly_81
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 13
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa846eef519a6860800000000000000
+      internalID: 7523985968683322108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButterFly_82
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 16
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2479cac3dbd229fc0800000000000000
+      internalID: -3489676470468700350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButterFly_83
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 18
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5a61209858aa5130800000000000000
+      internalID: 3556339954091125343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ButterFly_0: 4094524082553314110
+      ButterFly_1: -8530495992610760728
+      ButterFly_10: -7028983942734166665
+      ButterFly_11: -5735275930335486717
+      ButterFly_12: -2875307325249039920
+      ButterFly_13: -8092665220129684188
+      ButterFly_14: 2597671669506875737
+      ButterFly_15: -2651495574386026127
+      ButterFly_16: -554878706887748959
+      ButterFly_17: -9185898127551107402
+      ButterFly_18: 2460992424123706333
+      ButterFly_19: -4301997875793343840
+      ButterFly_2: -7304293030109811094
+      ButterFly_20: -8190760747340461486
+      ButterFly_21: 5108747301864250587
+      ButterFly_22: -7257596089765742901
+      ButterFly_23: 7958262509564410674
+      ButterFly_24: 2352694512132811001
+      ButterFly_25: 3367250643505490533
+      ButterFly_26: -4681331211425623470
+      ButterFly_27: -5477035974036391225
+      ButterFly_28: -4510786383650288399
+      ButterFly_29: -2329370408033825796
+      ButterFly_3: 361311500375878089
+      ButterFly_30: -1796161434514410498
+      ButterFly_31: -1019949333862943438
+      ButterFly_32: -1951083403969273553
+      ButterFly_33: 6211253449977828036
+      ButterFly_34: 6963780034993950509
+      ButterFly_35: -611481633573690053
+      ButterFly_36: -278663793101512442
+      ButterFly_37: 4549498831706009836
+      ButterFly_38: -7227055945120102328
+      ButterFly_39: -7847662966417448558
+      ButterFly_4: -2531341820465438393
+      ButterFly_40: 1576027869600932954
+      ButterFly_41: -3020488186116330569
+      ButterFly_42: -816175388774779528
+      ButterFly_43: 5935923512113778393
+      ButterFly_44: -2257467967897117299
+      ButterFly_45: -1571178827185442555
+      ButterFly_46: -6839469413504209013
+      ButterFly_47: 7998116017910880300
+      ButterFly_48: -3357686266179458222
+      ButterFly_49: 4361652263871784146
+      ButterFly_5: 3946433756869056253
+      ButterFly_50: -5116179236962228983
+      ButterFly_51: -844599033043305559
+      ButterFly_52: 1171250946127356635
+      ButterFly_53: 202561161282526640
+      ButterFly_54: 3645106762931181425
+      ButterFly_55: 7521233376296088491
+      ButterFly_56: -3800992572915050846
+      ButterFly_57: -8548951171627772719
+      ButterFly_58: -1234240791955580294
+      ButterFly_59: -7162163165039953845
+      ButterFly_6: 3093797557379251916
+      ButterFly_60: 2461086570060633708
+      ButterFly_61: -6637387621583391885
+      ButterFly_62: -4131471835018619980
+      ButterFly_63: -4720889401253413309
+      ButterFly_64: -6015525975602507656
+      ButterFly_65: 3933387158610199568
+      ButterFly_66: 6401712578791482793
+      ButterFly_67: 6791171890845904251
+      ButterFly_68: -6030516618865613650
+      ButterFly_69: 3725435521706771155
+      ButterFly_7: 5781433108662394080
+      ButterFly_70: 2618900659555537268
+      ButterFly_71: 8252723889234524767
+      ButterFly_72: -4553963362447926857
+      ButterFly_73: -6334110505936192083
+      ButterFly_74: 9059864076530285019
+      ButterFly_75: 5989250987306292561
+      ButterFly_76: 2810668651152506566
+      ButterFly_77: -7583405163486415996
+      ButterFly_78: -5959243182982952186
+      ButterFly_79: 2108909383312366083
+      ButterFly_8: 2606061033550834511
+      ButterFly_80: -6014599125813230514
+      ButterFly_81: 7523985968683322108
+      ButterFly_82: -3489676470468700350
+      ButterFly_83: 3556339954091125343
+      ButterFly_9: 4663815594928572566
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

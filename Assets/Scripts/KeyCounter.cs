@@ -2,25 +2,26 @@
 using UnityEngine.UI;
 using TMPro;
 
-// Глобальный счётчик ключей. Положи этот скрипт на пустой GameObject «KeyManager» в сцене.
-// В UI создай Text (или TMP_Text) и назначь его в Inspector.
 public class KeyCounter : MonoBehaviour
 {
     [Header("Счётчик")]
     public int keysCollected = 0;
-    public int keysRequiredToWin = 3;   // Сколько ключей нужно для победы (0 = без условия)
+    public int keysRequiredToWin = 3;
 
     [Header("UI")]
-    public TextMeshProUGUI keyText;                // Обычный UnityEngine.UI.Text
-    // Если используешь TextMeshPro — замени на TMPro.TMP_Text и добавь using TMPro;
+    public TextMeshProUGUI keyText;
 
     [Header("Событие победы")]
-    public GameObject winPanel;         // Панель «Уровень пройден» (опционально)
+    public GameObject winPanel;
 
     void Start()
     {
         keysCollected = 0;
         UpdateUI();
+
+        // Устанавливаем цвет текста #FEFE3F
+        if (keyText != null)
+            keyText.color = new Color32(0xFE, 0xFE, 0x3F, 0xFF);
     }
 
     public void AddKey(int amount = 1)
@@ -45,11 +46,7 @@ public class KeyCounter : MonoBehaviour
 
         if (winPanel != null)
             winPanel.SetActive(true);
-
-        // Здесь можно загрузить следующий уровень:
-        // UnityEngine.SceneManagement.SceneManager.LoadScene("NextLevel");
     }
 
-    // Публичный геттер для других скриптов
     public int GetKeys() => keysCollected;
 }

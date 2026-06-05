@@ -81,7 +81,7 @@ public class PlayerMovement : MonoBehaviour
 
     void HandleShoot()
     {
-        bool firePressed = Input.GetKeyDown(KeyCode.F) || Input.GetMouseButtonDown(1);
+        bool firePressed = Input.GetKeyDown(KeyCode.F) || Input.GetMouseButtonDown(0);
 
         if (firePressed && Time.time >= nextFireTime)
         {

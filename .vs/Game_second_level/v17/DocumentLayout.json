@@ -7,39 +7,43 @@
       "RelativeMoniker": "D:0:0:{D150FC90-789F-5E41-F512-3446C21E0155}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\portal\\portal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D150FC90-789F-5E41-F512-3446C21E0155}|Assembly-CSharp.csproj|c:\\users\\\u0430\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\documents\\github\\beetwen-the-worlds\\second_level\\game_second_level\\assets\\scripts\\player\\playerstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D150FC90-789F-5E41-F512-3446C21E0155}|Assembly-CSharp.csproj|C:\\Users\\\u0410\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\Documents\\GitHub\\Beetwen-the-worlds\\Second_level\\Game_second_level\\assets\\scripts\\player\\playerstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D150FC90-789F-5E41-F512-3446C21E0155}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D150FC90-789F-5E41-F512-3446C21E0155}|Assembly-CSharp.csproj|c:\\users\\\u0430\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\documents\\github\\beetwen-the-worlds\\second_level\\game_second_level\\assets\\scripts\\pause\\pause.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D150FC90-789F-5E41-F512-3446C21E0155}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pause\\pause.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D150FC90-789F-5E41-F512-3446C21E0155}|Assembly-CSharp.csproj|C:\\Users\\\u0410\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\Documents\\GitHub\\Beetwen-the-worlds\\Second_level\\Game_second_level\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D150FC90-789F-5E41-F512-3446C21E0155}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B521B2CF-49DB-C059-467E-1A52121380D1}|AstarPathfindingProjectEditor.csproj|c:\\users\\\u0430\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\documents\\github\\beetwen-the-worlds\\second_level\\game_second_level\\assets\\astarpathfindingproject\\editor\\astarupdatechecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B521B2CF-49DB-C059-467E-1A52121380D1}|AstarPathfindingProjectEditor.csproj|C:\\Users\\\u0410\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\Documents\\GitHub\\Beetwen-the-worlds\\Second_level\\Game_second_level\\assets\\astarpathfindingproject\\editor\\astarupdatechecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B521B2CF-49DB-C059-467E-1A52121380D1}|AstarPathfindingProjectEditor.csproj|solutionrelative:assets\\astarpathfindingproject\\editor\\astarupdatechecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D150FC90-789F-5E41-F512-3446C21E0155}|Assembly-CSharp.csproj|c:\\users\\\u0430\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\documents\\github\\beetwen-the-worlds\\second_level\\game_second_level\\assets\\scripts\\items\\healthbooster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D150FC90-789F-5E41-F512-3446C21E0155}|Assembly-CSharp.csproj|C:\\Users\\\u0410\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\Documents\\GitHub\\Beetwen-the-worlds\\Second_level\\Game_second_level\\assets\\scripts\\items\\healthbooster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D150FC90-789F-5E41-F512-3446C21E0155}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\items\\healthbooster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D150FC90-789F-5E41-F512-3446C21E0155}|Assembly-CSharp.csproj|c:\\users\\\u0430\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\documents\\github\\beetwen-the-worlds\\second_level\\game_second_level\\assets\\scripts\\player\\playerfight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D150FC90-789F-5E41-F512-3446C21E0155}|Assembly-CSharp.csproj|C:\\Users\\\u0410\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\Documents\\GitHub\\Beetwen-the-worlds\\Second_level\\Game_second_level\\assets\\scripts\\player\\playerfight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D150FC90-789F-5E41-F512-3446C21E0155}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerfight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D150FC90-789F-5E41-F512-3446C21E0155}|Assembly-CSharp.csproj|c:\\users\\\u0430\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\documents\\github\\beetwen-the-worlds\\second_level\\game_second_level\\assets\\scripts\\player\\player_movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D150FC90-789F-5E41-F512-3446C21E0155}|Assembly-CSharp.csproj|C:\\Users\\\u0410\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\Documents\\GitHub\\Beetwen-the-worlds\\Second_level\\Game_second_level\\assets\\scripts\\player\\player_movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D150FC90-789F-5E41-F512-3446C21E0155}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\player_movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D150FC90-789F-5E41-F512-3446C21E0155}|Assembly-CSharp.csproj|c:\\users\\\u0430\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\documents\\github\\beetwen-the-worlds\\second_level\\game_second_level\\assets\\scripts\\enemy\\patrollingpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D150FC90-789F-5E41-F512-3446C21E0155}|Assembly-CSharp.csproj|C:\\Users\\\u0410\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\Documents\\GitHub\\Beetwen-the-worlds\\Second_level\\Game_second_level\\assets\\scripts\\enemy\\patrollingpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D150FC90-789F-5E41-F512-3446C21E0155}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\patrollingpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D150FC90-789F-5E41-F512-3446C21E0155}|Assembly-CSharp.csproj|c:\\users\\\u0430\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\documents\\github\\beetwen-the-worlds\\second_level\\game_second_level\\assets\\scripts\\enemy\\walkingenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D150FC90-789F-5E41-F512-3446C21E0155}|Assembly-CSharp.csproj|C:\\Users\\\u0410\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\Documents\\GitHub\\Beetwen-the-worlds\\Second_level\\Game_second_level\\assets\\scripts\\enemy\\walkingenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D150FC90-789F-5E41-F512-3446C21E0155}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\walkingenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D150FC90-789F-5E41-F512-3446C21E0155}|Assembly-CSharp.csproj|c:\\users\\\u0430\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\documents\\github\\beetwen-the-worlds\\second_level\\game_second_level\\assets\\scripts2\\sceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D150FC90-789F-5E41-F512-3446C21E0155}|Assembly-CSharp.csproj|C:\\Users\\\u0410\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\Documents\\GitHub\\Beetwen-the-worlds\\Second_level\\Game_second_level\\assets\\scripts2\\sceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D150FC90-789F-5E41-F512-3446C21E0155}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts2\\sceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -54,8 +58,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pause.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\Documents\\GitHub\\Beetwen-the-worlds\\Second_level\\Game_second_level\\Assets\\Scripts\\Pause\\Pause.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Pause\\Pause.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\Documents\\GitHub\\Beetwen-the-worlds\\Second_level\\Game_second_level\\Assets\\Scripts\\Pause\\Pause.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Pause\\Pause.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T22:08:46.856Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -64,14 +81,14 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\Portal\\Portal.cs",
               "ToolTip": "C:\\Users\\\u0410\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\Documents\\GitHub\\Beetwen-the-worlds\\Second_level\\Game_second_level\\Assets\\Scripts\\Portal\\Portal.cs",
               "RelativeToolTip": "Assets\\Scripts\\Portal\\Portal.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAnAAAA",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwB8AAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-05T22:04:50.788Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "AstarUpdateChecker.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\Documents\\GitHub\\Beetwen-the-worlds\\Second_level\\Game_second_level\\Assets\\AstarPathfindingProject\\Editor\\AstarUpdateChecker.cs",
               "RelativeDocumentMoniker": "Assets\\AstarPathfindingProject\\Editor\\AstarUpdateChecker.cs",
@@ -79,12 +96,11 @@
               "RelativeToolTip": "Assets\\AstarPathfindingProject\\Editor\\AstarUpdateChecker.cs",
               "ViewState": "AQIAAM8AAAAAAAAAAAAtwN8AAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-05T21:35:36.694Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-05T21:35:36.694Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "HealthBooster.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\Documents\\GitHub\\Beetwen-the-worlds\\Second_level\\Game_second_level\\Assets\\Scripts\\Items\\HealthBooster.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Items\\HealthBooster.cs",
@@ -92,12 +108,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Items\\HealthBooster.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-05T21:31:49.895Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-05T21:31:49.895Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "PlayerFight.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\Documents\\GitHub\\Beetwen-the-worlds\\Second_level\\Game_second_level\\Assets\\Scripts\\Player\\PlayerFight.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerFight.cs",
@@ -105,12 +120,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerFight.cs",
               "ViewState": "AQIAABYAAAAAAAAAAAAgwDMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-05T21:28:22.39Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-05T21:28:22.39Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Player_movement.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\Documents\\GitHub\\Beetwen-the-worlds\\Second_level\\Game_second_level\\Assets\\Scripts\\Player\\Player_movement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Player_movement.cs",
@@ -118,8 +132,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Player\\Player_movement.cs",
               "ViewState": "AQIAAEgAAAAAAAAAAAAowGcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-05T21:28:17.414Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-05T21:28:17.414Z"
             },
             {
               "$type": "Document",
@@ -129,14 +142,14 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerStats.cs",
               "ToolTip": "C:\\Users\\\u0410\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\Documents\\GitHub\\Beetwen-the-worlds\\Second_level\\Game_second_level\\Assets\\Scripts\\Player\\PlayerStats.cs",
               "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerStats.cs",
-              "ViewState": "AQIAAGQAAAAAAAAAAADwv3IAAAAaAAAA",
+              "ViewState": "AQIAADUAAAAAAAAAAAA9wFMAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-05T21:05:01.487Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "PatrollingPoint.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\Documents\\GitHub\\Beetwen-the-worlds\\Second_level\\Game_second_level\\Assets\\Scripts\\Enemy\\PatrollingPoint.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\PatrollingPoint.cs",
@@ -144,12 +157,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Enemy\\PatrollingPoint.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-05T20:48:06.338Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-05T20:48:06.338Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "WalkingEnemy.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\Documents\\GitHub\\Beetwen-the-worlds\\Second_level\\Game_second_level\\Assets\\Scripts\\Enemy\\WalkingEnemy.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\WalkingEnemy.cs",
@@ -157,12 +169,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Enemy\\WalkingEnemy.cs",
               "ViewState": "AQIAAB4AAAAAAAAAAAAwwDwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-05T20:47:33.772Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-05T20:47:33.772Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "SceneLoader.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\Documents\\GitHub\\Beetwen-the-worlds\\Second_level\\Game_second_level\\Assets\\Scripts2\\SceneLoader.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts2\\SceneLoader.cs",
@@ -170,12 +181,11 @@
               "RelativeToolTip": "Assets\\Scripts2\\SceneLoader.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAAwBwAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-05T16:40:02.253Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-05T16:40:02.253Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "PlayerController.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\Documents\\GitHub\\Beetwen-the-worlds\\Second_level\\Game_second_level\\Assets\\Scripts2\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts2\\PlayerController.cs",
@@ -187,7 +197,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "PlayerMovement.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\Documents\\GitHub\\Beetwen-the-worlds\\Second_level\\Game_second_level\\Assets\\Scripts\\PlayerMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
@@ -195,8 +205,7 @@
               "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
               "ViewState": "AQIAADsAAAAAAAAAAAAgwDoAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-05T15:16:04.031Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-05T15:16:04.031Z"
             }
           ]
         }

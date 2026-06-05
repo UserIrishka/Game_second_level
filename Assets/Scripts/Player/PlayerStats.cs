@@ -1,4 +1,5 @@
 using System;
+using TMPro;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
@@ -7,13 +8,16 @@ public class PlayerStats : MonoBehaviour, IDamageAble
 {
     public int Health;
 
-    [SerializeField] public Slider _slider;
+    //[SerializeField] public Slider _slider;
+    // Ссылка на текстовый элемент для отображения счётчика монет
+    [SerializeField] private TextMeshProUGUI coinText;
 
     public float JumpForce;
     public float SpeedMovement;
     public float Damage;
     public int PlayerDamage;
     [SerializeField] private AudioSource gameOverMusicSource;
+    [SerializeField] private TextMeshProUGUI healthText;
 
 
     // Новая переменная для монет
@@ -21,9 +25,24 @@ public class PlayerStats : MonoBehaviour, IDamageAble
 
     [SerializeField] private GameObject gameOverImage;
 
-    // Ссылка на текстовый элемент для отображения счётчика монет
-    [SerializeField] private TMPro.TextMeshProUGUI coinText; 
 
+
+    private void Start()
+    {
+        // Инициализируем отображение здоровья
+        UpdateHealthText();
+    }
+    private void UpdateHealthText()
+    {
+        if (healthText != null)
+        {
+            healthText.text = "Жизни: " + Health;
+        }
+    }
+    public void UpdateHealthUI()
+    {
+        UpdateHealthText(); 
+    }
     // Метод для добавления монет
     public void AddCoins(int amount)
     {
@@ -45,13 +64,18 @@ public class PlayerStats : MonoBehaviour, IDamageAble
         if (Health - damageValue <= 0)
         {
             Health = 0;
+            UpdateHealthText(); // обновим текст перед Game Over
             ShowGameOver();
         }
         else
         {
             Health -= damageValue;
+            UpdateHealthText(); // обновляем текст после уменьшения здоровья
         }
-        _slider.value = Health;
+
+        // Если вы всё ещё используете слайдер, закомментируйте эту строку:
+        // _slider.value = Health;
+
         Debug.Log("Здоровье: " + Health);
     }
 

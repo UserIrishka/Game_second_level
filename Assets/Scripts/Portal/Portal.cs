@@ -4,7 +4,7 @@ using UnityEngine.SceneManagement;
 public class Portal : MonoBehaviour
 {
     // Имя сцены, на которую нужно перейти
-    public string nextSceneName = "Boss";
+    public string nextSceneName = "Menu";
     [SerializeField] private int totalCoins; // Общее количество монет
 
     private void OnTriggerEnter2D(Collider2D collision)

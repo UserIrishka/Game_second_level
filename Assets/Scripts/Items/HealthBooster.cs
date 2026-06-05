@@ -15,7 +15,8 @@ public class HealthBooster : Item
         HillEffect.Play();
         GetComponent<Collider2D>().enabled = false;
         GetComponent<SpriteRenderer>().enabled = false;
-        player._slider.value = player.Health;
+        //player._slider.value = player.Health;
+        player.UpdateHealthUI();
 
         GameObject.Destroy(gameObject);
 

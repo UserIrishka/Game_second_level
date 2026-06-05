@@ -5,7 +5,7 @@ public class PlayerController : MonoBehaviour
 {
     [Header("Movement Settings")]
     public float speed = 5f;
-    public float jumpForce = 10f;
+    public float jumpForce = 7f;
 
     [Header("Detection Settings")]
     public Transform groundCheck;
@@ -17,20 +17,20 @@ public class PlayerController : MonoBehaviour
     public int keys = 0;
 
     private Rigidbody2D rb;
+    private Animator animator;        // <-- Добавлен Animator
     private bool isGrounded;
     private float moveInput;
 
-    // Ссылки на менеджеры для обновления интерфейса
     private HealthManager healthManager;
     private KeyManager keyManager;
 
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
+        animator = GetComponent<Animator>();   // <-- Получаем компонент аниматора
         healthManager = Object.FindAnyObjectByType<HealthManager>();
         keyManager = Object.FindAnyObjectByType<KeyManager>();
 
-        // Синхронизируем UI при старте
         if (healthManager) healthManager.UpdateUI(health);
         if (keyManager) keyManager.UpdateUI(keys);
     }
@@ -39,17 +39,52 @@ public class PlayerController : MonoBehaviour
 
     public void OnJump()
     {
-        if (isGrounded) rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
+        if (isGrounded)
+        {
+            rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
+            // Опционально: триггер для анимации прыжка
+            if (animator != null) animator.SetTrigger("Jump");
+        }
     }
 
-    void Update() => isGrounded = Physics2D.OverlapCircle(groundCheck.position, checkRadius, whatIsGround);
+    void Update()
+    {
+        isGrounded = Physics2D.OverlapCircle(groundCheck.position, checkRadius, whatIsGround);
+        UpdateAnimator(); // <-- Обновляем параметры аниматора каждый кадр
+    }
 
-    void FixedUpdate() => rb.linearVelocity = new Vector2(moveInput * speed, rb.linearVelocity.y);
+    void FixedUpdate()
+    {
+        rb.linearVelocity = new Vector2(moveInput * speed, rb.linearVelocity.y);
+        Flip();
+    }
 
-    // Центр управления событиями
+    // Обновление параметров для Animator
+    void UpdateAnimator()
+    {
+        if (animator == null) return;
+
+        // Скорость по горизонтали (модуль для бега в любую сторону)
+        float horizontalSpeed = Mathf.Abs(rb.linearVelocity.x);
+        animator.SetFloat("Speed", horizontalSpeed);
+
+        // На земле или в воздухе
+        animator.SetBool("IsGrounded", isGrounded);
+
+        // Вертикальная скорость (для анимаций прыжка/падения)
+        animator.SetFloat("VerticalVelocity", rb.linearVelocity.y);
+    }
+
+    private void Flip()
+    {
+        if (moveInput > 0)
+            transform.localScale = new Vector3(Mathf.Abs(transform.localScale.x), transform.localScale.y, transform.localScale.z);
+        else if (moveInput < 0)
+            transform.localScale = new Vector3(-Mathf.Abs(transform.localScale.x), transform.localScale.y, transform.localScale.z);
+    }
+
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        // Получение урона
         if (collision.CompareTag("Enemy"))
         {
             health -= 10;
@@ -57,12 +92,11 @@ public class PlayerController : MonoBehaviour
             if (health <= 0) healthManager.Die();
         }
 
-        // Сбор ключей
         if (collision.CompareTag("Key"))
         {
             keys++;
             if (keyManager) keyManager.UpdateUI(keys);
-            Destroy(collision.gameObject); // Удаляем ключ
+            Destroy(collision.gameObject);
         }
     }
 }

@@ -1,5 +1,5 @@
 using UnityEngine;
-using TMPro;
+using UnityEngine.SceneManagement;   // Required for LoadScene
 
 public class LevelManager : MonoBehaviour
 {
@@ -9,14 +9,9 @@ public class LevelManager : MonoBehaviour
     public int collectedKeys = 0;
     public int enemiesAlive = 0;
 
-    public GameObject winPanel;
-    public TMP_Text winText;
-
     void Awake()
     {
         Instance = this;
-        if (winPanel != null)
-            winPanel.SetActive(false);
     }
 
     public void RegisterEnemy()
@@ -40,11 +35,8 @@ public class LevelManager : MonoBehaviour
     {
         if (collectedKeys >= totalKeys && enemiesAlive <= 0)
         {
-            if (winPanel != null)
-                winPanel.SetActive(true);
-
-            if (winText != null)
-                winText.text = "Вы прошли уровень!";
+            // Load the next scene – make sure it's added to Build Settings
+            SceneManager.LoadScene("Second_level");
         }
     }
 }

@@ -32,6 +32,7 @@ public class PlayerController : MonoBehaviour
         keyManager = Object.FindAnyObjectByType<KeyManager>();
 
         if (healthManager) healthManager.UpdateUI(health);
+
         if (keyManager) keyManager.UpdateUI(keys);
     }
 

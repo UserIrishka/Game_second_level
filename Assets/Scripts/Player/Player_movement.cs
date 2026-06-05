@@ -10,7 +10,7 @@ public class Player_movement : MonoBehaviour
     private int _idleState = Animator.StringToHash("idle");
     private int _jumpState = Animator.StringToHash("JumpTrigger");
     private int _onGroundState = Animator.StringToHash("IsOnGround");
-    private int _fallingState = Animator.StringToHash("isFalling"); 
+    //private int _fallingState = Animator.StringToHash("isFalling"); 
     private Rigidbody2D _rigidbody2D;
     private SpriteRenderer _sprite;
     private Animator _anim;
@@ -49,7 +49,7 @@ public class Player_movement : MonoBehaviour
             _isOnGround = true;
             _isUseDoubleJump = false;
             _anim.SetBool(_onGroundState, true);
-            _anim.SetBool(_fallingState, false); 
+            //_anim.SetBool(_fallingState, false); 
         }
         else
         {
@@ -57,14 +57,14 @@ public class Player_movement : MonoBehaviour
             _anim.SetBool(_onGroundState, false);
 
             // Проверка на падение
-            if (_rigidbody2D.linearVelocity.y < -2)
-            {
-                _anim.SetBool(_fallingState, true); 
-            }
-            else
-            {
-                _anim.SetBool(_fallingState, false); 
-            }
+            //if (_rigidbody2D.linearVelocity.y < -2)
+            //{
+            //    _anim.SetBool(_fallingState, true); 
+            //}
+            //else
+            //{
+            //    _anim.SetBool(_fallingState, false); 
+            //}
         }
 
         _rigidbody2D.linearVelocity = new Vector2(moveInput * _playerStats.SpeedMovement, _rigidbody2D.linearVelocity.y);

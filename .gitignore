@@ -1,20 +1,7 @@
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Uu]serSettings/
-/[Pp]rofilerCaptures/
-
-# Visual Studio файлы
-.vs/
+/Library/
+/Temp/
+/Logs/
+/obj/
+/Build/
 *.csproj
-*.sln
-*.suo
-*.user
-*.userprefs
-*.pidb
-*.svd
-*.pdb
-*.mdb
+*.sln".vs/" 

@@ -4,7 +4,7 @@ public class LightningBullet : MonoBehaviour
 {
     public float speed = 12f;
     public float lifetime = 2f;
-    public float direction = 1f; 
+    public float direction = 1f;
 
     void Start()
     {
@@ -23,10 +23,26 @@ public class LightningBullet : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-        if (other.CompareTag("Enemy") || other.GetComponent<GhostAI>() != null)
+        GreenGhostAI ghost = other.GetComponent<GreenGhostAI>();
+
+        if (ghost == null)
         {
-            Destroy(other.gameObject); 
-            Destroy(gameObject);       
+            ghost = other.GetComponentInParent<GreenGhostAI>();
+        }
+
+        // Проверяем, нашли ли призрака или объект с тегом Enemy
+        if (ghost != null || other.CompareTag("Enemy") || (other.transform.parent != null && other.transform.parent.CompareTag("Enemy")))
+        {
+            if (ghost != null)
+            {
+                Destroy(ghost.gameObject);
+            }
+            else
+            {
+                Destroy(other.gameObject);
+            }
+
+            Destroy(gameObject);
             return;
         }
 

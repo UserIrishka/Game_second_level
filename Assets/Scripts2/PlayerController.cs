@@ -1,8 +1,12 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
+using UnityEngine.SceneManagement;
 
 public class PlayerController : MonoBehaviour
-{
+{       
+    [SerializeField] private AudioSource gameOverMusicSource;
+    [SerializeField] private GameObject gameOverImage;
+
     [Header("Movement Settings")]
     public float speed = 5f;
     public float jumpForce = 7f;
@@ -133,5 +137,44 @@ public class PlayerController : MonoBehaviour
         {
             bullet.direction = facingDirection;
         }
+    }
+
+    private AudioSource[] allAudioSources;
+    private void ShowGameOver()
+    {
+        // Отображаем Game Over Image
+        if (gameOverImage != null)
+        {
+            gameOverImage.SetActive(true);
+        }
+
+        allAudioSources = UnityEngine.Object.FindObjectsByType<AudioSource>(UnityEngine.FindObjectsSortMode.None);
+
+        // Отключаем все звуки кроме музыки GameOver
+        foreach (AudioSource source in allAudioSources)
+        {
+            if (source != gameOverMusicSource)
+            {
+                source.Pause();
+            }
+        }
+
+        // Запускаем музыку GameOver
+        if (gameOverMusicSource != null)
+        {
+            gameOverMusicSource.Play();
+        }
+
+
+        // Остановка игры
+        Time.timeScale = 0;
+    }
+
+
+
+    public void ReturnToMainMenu()
+    {
+        Time.timeScale = 1;
+        SceneManager.LoadScene("Menu");
     }
 }

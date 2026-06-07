@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class GhostAI : MonoBehaviour
+public class GreenGhostAI : MonoBehaviour
 {
     [Header("Настройки движения")]
     public float patrolSpeed = 2f;

@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "D:\\App\\Unity_Projects\\Game_second_level\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D150FC90-789F-5E41-F512-3446C21E0155}|Assembly-CSharp.csproj|d:\\app\\unity_projects\\game_second_level\\assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D150FC90-789F-5E41-F512-3446C21E0155}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D150FC90-789F-5E41-F512-3446C21E0155}|Assembly-CSharp.csproj|D:\\App\\Unity_Projects\\Game_second_level\\assets\\scripts2\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D150FC90-789F-5E41-F512-3446C21E0155}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts2\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B521B2CF-49DB-C059-467E-1A52121380D1}|AstarPathfindingProjectEditor.csproj|d:\\app\\unity_projects\\game_second_level\\assets\\astarpathfindingproject\\editor\\astarupdatechecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D150FC90-789F-5E41-F512-3446C21E0155}|Assembly-CSharp.csproj|d:\\app\\unity_projects\\game_second_level\\assets\\scripts2\\lightningbullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D150FC90-789F-5E41-F512-3446C21E0155}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts2\\lightningbullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B521B2CF-49DB-C059-467E-1A52121380D1}|AstarPathfindingProjectEditor.csproj|D:\\App\\Unity_Projects\\Game_second_level\\assets\\astarpathfindingproject\\editor\\astarupdatechecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B521B2CF-49DB-C059-467E-1A52121380D1}|AstarPathfindingProjectEditor.csproj|solutionrelative:assets\\astarpathfindingproject\\editor\\astarupdatechecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D150FC90-789F-5E41-F512-3446C21E0155}|Assembly-CSharp.csproj|d:\\app\\unity_projects\\game_second_level\\assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D150FC90-789F-5E41-F512-3446C21E0155}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D150FC90-789F-5E41-F512-3446C21E0155}|Assembly-CSharp.csproj|D:\\App\\Unity_Projects\\Game_second_level\\assets\\scripts\\player\\playerstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D150FC90-789F-5E41-F512-3446C21E0155}|Assembly-CSharp.csproj|D:\\App\\Unity_Projects\\Game_second_level\\assets\\scripts\\portal\\portal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D150FC90-789F-5E41-F512-3446C21E0155}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\portal\\portal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D150FC90-789F-5E41-F512-3446C21E0155}|Assembly-CSharp.csproj|D:\\App\\Unity_Projects\\Game_second_level\\assets\\scripts2\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D150FC90-789F-5E41-F512-3446C21E0155}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts2\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D150FC90-789F-5E41-F512-3446C21E0155}|Assembly-CSharp.csproj|D:\\App\\Unity_Projects\\Game_second_level\\assets\\scripts\\player\\player_movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,11 +74,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "LightningBullet.cs",
+              "DocumentMoniker": "D:\\App\\Unity_Projects\\Game_second_level\\Assets\\Scripts2\\LightningBullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts2\\LightningBullet.cs",
+              "ToolTip": "D:\\App\\Unity_Projects\\Game_second_level\\Assets\\Scripts2\\LightningBullet.cs",
+              "RelativeToolTip": "Assets\\Scripts2\\LightningBullet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T20:13:39.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Bullet.cs",
               "DocumentMoniker": "D:\\App\\Unity_Projects\\Game_second_level\\Assets\\Scripts\\Bullet.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Bullet.cs",
@@ -86,24 +103,21 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PlayerStats.cs",
-              "DocumentMoniker": "D:\\App\\Unity_Projects\\Game_second_level\\Assets\\Scripts\\Player\\PlayerStats.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerStats.cs",
-              "ToolTip": "D:\\App\\Unity_Projects\\Game_second_level\\Assets\\Scripts\\Player\\PlayerStats.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerStats.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAYwHMAAAAiAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "D:\\App\\Unity_Projects\\Game_second_level\\Assets\\Scripts2\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts2\\PlayerController.cs",
+              "ToolTip": "D:\\App\\Unity_Projects\\Game_second_level\\Assets\\Scripts2\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts2\\PlayerController.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAgwHIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-05T21:05:01.487Z"
+              "WhenOpened": "2026-06-05T16:18:47.851Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "SceneLoader.cs",
               "DocumentMoniker": "D:\\App\\Unity_Projects\\Game_second_level\\Assets\\Scripts2\\SceneLoader.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts2\\SceneLoader.cs",
@@ -115,7 +129,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "AstarUpdateChecker.cs",
               "DocumentMoniker": "D:\\App\\Unity_Projects\\Game_second_level\\Assets\\AstarPathfindingProject\\Editor\\AstarUpdateChecker.cs",
               "RelativeDocumentMoniker": "Assets\\AstarPathfindingProject\\Editor\\AstarUpdateChecker.cs",
@@ -128,7 +142,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
+              "Title": "PlayerStats.cs",
+              "DocumentMoniker": "D:\\App\\Unity_Projects\\Game_second_level\\Assets\\Scripts\\Player\\PlayerStats.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerStats.cs",
+              "ToolTip": "D:\\App\\Unity_Projects\\Game_second_level\\Assets\\Scripts\\Player\\PlayerStats.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerStats.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAYwHMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T21:05:01.487Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Portal.cs",
               "DocumentMoniker": "D:\\App\\Unity_Projects\\Game_second_level\\Assets\\Scripts\\Portal\\Portal.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Portal\\Portal.cs",
@@ -140,7 +170,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "HealthManager.cs",
               "DocumentMoniker": "D:\\App\\Unity_Projects\\Game_second_level\\Assets\\Scripts2\\HealthManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts2\\HealthManager.cs",
@@ -152,7 +182,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Pause.cs",
               "DocumentMoniker": "D:\\App\\Unity_Projects\\Game_second_level\\Assets\\Scripts\\Pause\\Pause.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Pause\\Pause.cs",
@@ -164,19 +194,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PlayerController.cs",
-              "DocumentMoniker": "D:\\App\\Unity_Projects\\Game_second_level\\Assets\\Scripts2\\PlayerController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts2\\PlayerController.cs",
-              "ToolTip": "D:\\App\\Unity_Projects\\Game_second_level\\Assets\\Scripts2\\PlayerController.cs",
-              "RelativeToolTip": "Assets\\Scripts2\\PlayerController.cs",
-              "ViewState": "AgIAAE8AAAAAAAAAAAAwwFwAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-05T16:18:47.851Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "PlayerMovement2D.cs",
               "DocumentMoniker": "D:\\App\\Unity_Projects\\Game_second_level\\Assets\\Player\\PlayerMovement2D.cs",
               "RelativeDocumentMoniker": "Assets\\Player\\PlayerMovement2D.cs",
@@ -188,7 +206,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "HealthBooster.cs",
               "DocumentMoniker": "D:\\App\\Unity_Projects\\Game_second_level\\Assets\\Scripts\\Items\\HealthBooster.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Items\\HealthBooster.cs",
@@ -200,7 +218,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "PlayerFight.cs",
               "DocumentMoniker": "D:\\App\\Unity_Projects\\Game_second_level\\Assets\\Scripts\\Player\\PlayerFight.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerFight.cs",
@@ -212,7 +230,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Player_movement.cs",
               "DocumentMoniker": "D:\\App\\Unity_Projects\\Game_second_level\\Assets\\Scripts\\Player\\Player_movement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Player_movement.cs",
@@ -224,7 +242,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "PatrollingPoint.cs",
               "DocumentMoniker": "D:\\App\\Unity_Projects\\Game_second_level\\Assets\\Scripts\\Enemy\\PatrollingPoint.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\PatrollingPoint.cs",
@@ -236,7 +254,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "WalkingEnemy.cs",
               "DocumentMoniker": "D:\\App\\Unity_Projects\\Game_second_level\\Assets\\Scripts\\Enemy\\WalkingEnemy.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\WalkingEnemy.cs",
@@ -248,7 +266,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "PlayerMovement.cs",
               "DocumentMoniker": "D:\\App\\Unity_Projects\\Game_second_level\\Assets\\Scripts\\PlayerMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",

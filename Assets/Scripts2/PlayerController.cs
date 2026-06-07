@@ -16,8 +16,15 @@ public class PlayerController : MonoBehaviour
     public int health = 100;
     public int keys = 0;
 
+    [Header("Settings Стрельбы")]
+    public GameObject bulletPrefab; 
+    public Transform firePoint;   
+    public float fireRate = 0.3f;   
+    private float nextFireTime = 0f;
+    private float facingDirection = 1f;
+
     private Rigidbody2D rb;
-    private Animator animator;        // <-- Добавлен Animator
+    private Animator animator;        
     private bool isGrounded;
     private float moveInput;
 
@@ -27,7 +34,7 @@ public class PlayerController : MonoBehaviour
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
-        animator = GetComponent<Animator>();   // <-- Получаем компонент аниматора
+        animator = GetComponent<Animator>();   
         healthManager = Object.FindAnyObjectByType<HealthManager>();
         keyManager = Object.FindAnyObjectByType<KeyManager>();
 
@@ -43,7 +50,6 @@ public class PlayerController : MonoBehaviour
         if (isGrounded)
         {
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
-            // Опционально: триггер для анимации прыжка
             if (animator != null) animator.SetTrigger("Jump");
         }
     }
@@ -51,7 +57,8 @@ public class PlayerController : MonoBehaviour
     void Update()
     {
         isGrounded = Physics2D.OverlapCircle(groundCheck.position, checkRadius, whatIsGround);
-        UpdateAnimator(); // <-- Обновляем параметры аниматора каждый кадр
+        UpdateAnimator();
+        HandleShoot();
     }
 
     void FixedUpdate()
@@ -60,28 +67,31 @@ public class PlayerController : MonoBehaviour
         Flip();
     }
 
-    // Обновление параметров для Animator
     void UpdateAnimator()
     {
         if (animator == null) return;
 
-        // Скорость по горизонтали (модуль для бега в любую сторону)
         float horizontalSpeed = Mathf.Abs(rb.linearVelocity.x);
         animator.SetFloat("Speed", horizontalSpeed);
 
-        // На земле или в воздухе
         animator.SetBool("IsGrounded", isGrounded);
 
-        // Вертикальная скорость (для анимаций прыжка/падения)
         animator.SetFloat("VerticalVelocity", rb.linearVelocity.y);
     }
+
 
     private void Flip()
     {
         if (moveInput > 0)
+        {
             transform.localScale = new Vector3(Mathf.Abs(transform.localScale.x), transform.localScale.y, transform.localScale.z);
+            facingDirection = 1f;
+        }
         else if (moveInput < 0)
+        {
             transform.localScale = new Vector3(-Mathf.Abs(transform.localScale.x), transform.localScale.y, transform.localScale.z);
+            facingDirection = -1f;
+        }
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
@@ -98,6 +108,30 @@ public class PlayerController : MonoBehaviour
             keys++;
             if (keyManager) keyManager.UpdateUI(keys);
             Destroy(collision.gameObject);
+        }
+    }
+
+    void HandleShoot()
+    {
+        bool firePressed = Input.GetKeyDown(KeyCode.F) || Input.GetMouseButtonDown(0);
+
+        if (firePressed && Time.time >= nextFireTime)
+        {
+            Shoot();
+            nextFireTime = Time.time + fireRate;
+        }
+    }
+
+    void Shoot()
+    {
+        if (bulletPrefab == null || firePoint == null) return;
+
+        GameObject bulletObj = Instantiate(bulletPrefab, firePoint.position, Quaternion.identity);
+        LightningBullet bullet = bulletObj.GetComponent<LightningBullet>();
+
+        if (bullet != null)
+        {
+            bullet.direction = facingDirection;
         }
     }
 }

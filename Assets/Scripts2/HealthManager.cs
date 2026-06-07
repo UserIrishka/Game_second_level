@@ -1,10 +1,12 @@
 using UnityEngine;
 using TMPro;
-using UnityEngine.SceneManagement;
 
 public class HealthManager : MonoBehaviour
 {
     public TextMeshPro healthText;
+
+    [Header("UI Ёлементы")]
+    public GameObject gameOverPanel;
 
     public void UpdateUI(int currentHealth)
     {
@@ -14,6 +16,17 @@ public class HealthManager : MonoBehaviour
 
     public void Die()
     {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+        if (gameOverPanel != null)
+        {
+            gameOverPanel.SetActive(true);
+
+            Time.timeScale = 0f;
+        }
+        else
+        {
+            UnityEngine.SceneManagement.SceneManager.LoadScene(
+                UnityEngine.SceneManagement.SceneManager.GetActiveScene().name
+            );
+        }
     }
 }

@@ -54,8 +54,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::PlayerMovement
   speed: 8
   jumpForce: 13
-  bulletPrefab: {fileID: 2193449107747891053, guid: 7d5b58889a5078043aa309164f682122,
-    type: 3}
+  bulletPrefab: {fileID: 2193449107747891053, guid: 7d5b58889a5078043aa309164f682122, type: 3}
   firePoint: {fileID: 3615298342745360253}
   fireRate: 0.5
   groundCheck: {fileID: 4991719880829358002}
@@ -75,9 +74,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 216f20d3649073243bd01956849a4bdc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerHealth
-  maxHealth: 5
-  currentHealth: 5
-  heartHealthBar: {fileID: 0}
+  maxHealth: 100
+  currentHealth: 100
+  healthTextUI: {fileID: 0}
+  gameOverPanel: {fileID: 0}
   invincibilityTime: 1
 --- !u!50 &237126727531852894
 Rigidbody2D:
@@ -170,8 +170,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 1
   m_MaskInteraction: 0
-  m_Sprite: {fileID: -2472340072831945791, guid: b5b27dcf3cb70d94d8698bfeefed41bd,
-    type: 3}
+  m_Sprite: {fileID: -2472340072831945791, guid: b5b27dcf3cb70d94d8698bfeefed41bd, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0

@@ -13,7 +13,7 @@ public class EnemyAI : MonoBehaviour
     [Header("Обнаружение")]
     public float detectionRange = 5f;
     public float loseRange = 8f;
-    public float chaseDelay = 0.5f;    // Задержка перед началом преследования
+    public float chaseDelay = 0f;    // Задержка перед началом преследования
 
     [Header("Преследование")]
     public float chaseSpeed = 3.5f;
@@ -29,7 +29,7 @@ public class EnemyAI : MonoBehaviour
     public float raycastHeight = 0.5f;
 
     [Header("Атака (дальняя / контактная)")]
-    public int meleeDamage = 1;
+    public int meleeDamage = 15;
     public float attackRange = 0.9f;
     public float attackCooldown = 1f;
 

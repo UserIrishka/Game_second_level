@@ -84,8 +84,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 1
   m_MaskInteraction: 0
-  m_Sprite: {fileID: -2846200192262317269, guid: da4ca791dca819a4ca8a410e2bec5e4d,
-    type: 3}
+  m_Sprite: {fileID: -2846200192262317269, guid: da4ca791dca819a4ca8a410e2bec5e4d, type: 3}
   m_Color: {r: 0.9622642, g: 0.6996901, b: 0.05628333, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -183,3 +182,4 @@ MonoBehaviour:
   bobAmplitude: 0.15
   bobFrequency: 2
   rotateSpeed: 90
+  collectSound: {fileID: 8300000, guid: 98a154e37e18f744bbdbe5b68135b7bd, type: 3}

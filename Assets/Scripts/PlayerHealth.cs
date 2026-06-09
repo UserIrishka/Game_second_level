@@ -5,16 +5,17 @@ using System.Collections;
 public class PlayerHealth : MonoBehaviour
 {
     [Header("«доровье")]
-    public int maxHealth = 5;
+    public int maxHealth = 100;
     public int currentHealth;
 
-    [Header("UI Ч сердечки")]
-    public HeartHealthBar heartHealthBar;
+    [Header("UI")]
+    public HealthTextUI healthTextUI;
+    public GameObject gameOverPanel; // перетащи сюда панель Game Over
 
     [Header("Ёффекты")]
     public float invincibilityTime = 1.5f;
-
     private bool isInvincible = false;
+
     private SpriteRenderer spriteRenderer;
     private PlayerMovement movement;
     private Rigidbody2D rb;
@@ -27,10 +28,13 @@ public class PlayerHealth : MonoBehaviour
 
         currentHealth = maxHealth;
 
-        if (heartHealthBar == null)
-            heartHealthBar = FindObjectOfType<HeartHealthBar>();
+        if (healthTextUI == null)
+            healthTextUI = FindObjectOfType<HealthTextUI>();
 
-        UpdateHealthBar();
+        if (gameOverPanel != null)
+            gameOverPanel.SetActive(false);
+
+        UpdateHealthUI();
     }
 
     public void TakeDamage(int damage)
@@ -38,29 +42,43 @@ public class PlayerHealth : MonoBehaviour
         if (isInvincible) return;
 
         currentHealth = Mathf.Max(0, currentHealth - damage);
-        UpdateHealthBar();
+        UpdateHealthUI();
         StartCoroutine(InvincibilityRoutine());
 
         if (currentHealth <= 0)
-            StartCoroutine(DieAndRestartLevel());
+            StartCoroutine(Die());
     }
 
     public void Heal(int amount)
     {
         currentHealth = Mathf.Min(maxHealth, currentHealth + amount);
-        UpdateHealthBar();
+        UpdateHealthUI();
     }
 
-    void UpdateHealthBar()
+    void UpdateHealthUI()
     {
-        if (heartHealthBar != null)
-            heartHealthBar.UpdateHearts(currentHealth);
+        if (healthTextUI != null)
+            healthTextUI.UpdateHealth(currentHealth);
+    }
+
+    IEnumerator Die()
+    {
+        if (spriteRenderer != null) spriteRenderer.enabled = false;
+        if (movement != null) movement.enabled = false;
+        if (rb != null) rb.linearVelocity = Vector2.zero;
+
+        yield return new WaitForSeconds(1f);
+
+        // ѕоказываем Game Over
+        if (gameOverPanel != null)
+            gameOverPanel.SetActive(true);
+
+        Time.timeScale = 0f; // останавливаем игру
     }
 
     IEnumerator InvincibilityRoutine()
     {
         isInvincible = true;
-
         if (spriteRenderer != null)
         {
             float elapsed = 0f;
@@ -76,18 +94,6 @@ public class PlayerHealth : MonoBehaviour
         {
             yield return new WaitForSeconds(invincibilityTime);
         }
-
         isInvincible = false;
-    }
-
-    IEnumerator DieAndRestartLevel()
-    {
-        if (spriteRenderer != null) spriteRenderer.enabled = false;
-        if (movement != null) movement.enabled = false;
-        if (rb != null) rb.linearVelocity = Vector2.zero;
-
-        yield return new WaitForSeconds(1f);
-
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
 }

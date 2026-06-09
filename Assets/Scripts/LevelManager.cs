@@ -1,5 +1,5 @@
 using UnityEngine;
-using UnityEngine.SceneManagement;   // Required for LoadScene
+using UnityEngine.SceneManagement;
 
 public class LevelManager : MonoBehaviour
 {
@@ -9,34 +9,34 @@ public class LevelManager : MonoBehaviour
     public int collectedKeys = 0;
     public int enemiesAlive = 0;
 
+    private bool doorReached = false; // игрок дошЄл до двери
+
+    [Header("—ледующий уровень")]
+    public string nextSceneName = "Second_level";
+
     void Awake()
     {
         Instance = this;
     }
 
-    public void RegisterEnemy()
-    {
-        enemiesAlive++;
-    }
+    public void RegisterEnemy() { enemiesAlive++; }
+    public void EnemyKilled() { enemiesAlive = Mathf.Max(0, enemiesAlive - 1); CheckWin(); }
+    public void KeyCollected() { collectedKeys++; CheckWin(); }
 
-    public void EnemyKilled()
+    public void PlayerReachedDoor()
     {
-        enemiesAlive = Mathf.Max(0, enemiesAlive - 1);
+        doorReached = true;
         CheckWin();
     }
 
-    public void KeyCollected()
+    public bool AllConditionsMet()
     {
-        collectedKeys++;
-        CheckWin();
+        return collectedKeys >= totalKeys && enemiesAlive <= 0;
     }
 
     void CheckWin()
     {
-        if (collectedKeys >= totalKeys && enemiesAlive <= 0)
-        {
-            // Load the next scene Ц make sure it's added to Build Settings
-            SceneManager.LoadScene("Second_level");
-        }
+        if (collectedKeys >= totalKeys && enemiesAlive <= 0 && doorReached)
+            SceneManager.LoadScene(nextSceneName);
     }
 }

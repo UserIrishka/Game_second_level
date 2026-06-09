@@ -9,12 +9,15 @@ public class Enemy : MonoBehaviour
     private int currentHealth;
 
     [Header("Контактный урон")]
-    public int contactDamage = 1;
+    public int contactDamage = 15;
 
     [Header("Дроп ключа")]
     public GameObject keyPrefab;        // Префаб ключа (назначь в Inspector)
     [Range(0f, 1f)]
     public float keyDropChance = 1f;    // 1.0 = всегда, 0.5 = 50%
+
+    [Header("Звук")]
+    public AudioClip hitSound;
 
     void Start()
     {
@@ -26,6 +29,9 @@ public class Enemy : MonoBehaviour
     // Вызывается из Bullet при попадании
     public void TakeDamage(int damage)
     {
+        if (hitSound != null)
+            AudioSource.PlayClipAtPoint(hitSound, transform.position);
+
         currentHealth -= damage;
         if (currentHealth <= 0)
             Die();

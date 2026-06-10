@@ -23565,10 +23565,10 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 834522649}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -293.0582, y: 144.37671}
-  m_SizeDelta: {x: 161.8836, y: 21.4128}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 94.6, y: -33.72}
+  m_SizeDelta: {x: 161.8836, y: 21.412811}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1520198246
 MonoBehaviour:
@@ -39049,6 +39049,14 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
       objectReference: {fileID: 1548563185}
+    - target: {fileID: 3513270918847958174, guid: 71b82fa6f3fc1db4e9b4dd7284047b01, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: ReturnToMainMenu
+      objectReference: {fileID: 0}
+    - target: {fileID: 3513270918847958174, guid: 71b82fa6f3fc1db4e9b4dd7284047b01, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: PlayerStats, Assembly-CSharp
+      objectReference: {fileID: 0}
     - target: {fileID: 6397002639825053654, guid: 71b82fa6f3fc1db4e9b4dd7284047b01, type: 3}
       propertyPath: m_Pivot.x
       value: 0
